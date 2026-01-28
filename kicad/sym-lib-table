@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kbd")(type "KiCad")(uri "C:/projects/hardware/kbd-main/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
+)
