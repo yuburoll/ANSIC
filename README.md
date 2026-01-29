@@ -1,16 +1,16 @@
-![ansikImage](images/ansik16x9.jpg)
+![ansicImage](images/ansic16x9.jpg)
 
 # ANSIK
 
 row staggered 40~42 key split keyboard under 100x100mm PCB
 
-The name "ansik" is sabbath in Korean.
+The name "ansic" is sabbath in Korean.
 
 ## Preparation
 
 - 2x pro micro (Approx. 4-8$)
 
-- 2x ansik PCB Boards (5 boards are 2$ on JLC w/o shipping cost)
+- 2x ansic PCB Boards (5 boards are 2$ on JLC w/o shipping cost)
 
 - 1x printed case sets, 6 parts total (Approx. 12$ if you buy printed one on JLC. Use braced ones for 3d print)
 
@@ -50,4 +50,4 @@ all designs and the hardware board follow CC BY-SA 4.0 license.
 
 If you want to make a commercial product, it would be appreciated if you sponsor some bucks for me.
 
-![ansikGerber](images/ansikGerber.png)
+![ansicGerber](images/ansicGerber.png)
