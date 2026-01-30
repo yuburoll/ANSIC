@@ -34,7 +34,9 @@ Approx. 38-43$(w/o shipping cost) needed to build one.
 
 for wireless build, you may additionally need:
 
-- 2x 12c01 slide switch
+- 2x "Wireless" promicro (eg. nrf52840)
+
+- 2x 12c02 slide switch
 
 - 2x xx2030 Li-po battery (eg. 902030) and socket(in 1.25)
 
