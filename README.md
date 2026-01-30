@@ -32,11 +32,11 @@ Approx. 37-42$(w/o shipping cost) needed to build one.
 
 ## Default Keymap
 
-work in progress. sorry!
+![ansicKeymap](images/ansicKeymap.png)
 
 Holding the key triggers front legend.
 
-There will be three layers - Num, Mouse, Fn - which can be noticed by the color legends. ◇ Means Transparent; which uses base keymap.
+There will be two layers - Symbol, Fn - which can be noticed by the color legends. ◇ Means Transparent; which uses base keymap.
 
 ## Build Guides
 
