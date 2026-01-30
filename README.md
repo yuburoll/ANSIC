@@ -20,6 +20,8 @@ The name "ansic" is sabbath in Korean.
 
 - 2x PJ320A 1/8(3.5mm) TRRS connector (Approx. 1$)
 
+- 2x 4x4x1.5mm tact switches (Approx. 1$)
+
 - 1x 1/8(3.5mm) TRRS cable (Approx. 2$, may TRS cable can take the place.)
 
 - 43x MX Hotswap Sockets (Approx. 4$) (or, use soldering version)
@@ -28,7 +30,13 @@ The name "ansic" is sabbath in Korean.
 
 - 40~42x MX Keyswitches & Keycaps (Maybe this cost varies too much. 10$ on average)
 
-Approx. 37-42$(w/o shipping cost) needed to build one.
+Approx. 38-43$(w/o shipping cost) needed to build one.
+
+for wireless build, you may additionally need:
+
+- 2x 12c01 slide switch
+
+- 2x xx2030 Li-po battery (eg. 902030) and socket(in 1.25)
 
 ## Default Keymap
 
