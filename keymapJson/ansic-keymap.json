@@ -1,0 +1,161 @@
+[
+  {
+    "name": "ANSIC keymap",
+    "author": "yuburoll"
+  },
+  [
+    {
+      "t": "#ff0000\n#ffffff\n\n#0000ff\n\n\n\n\n\n#000000",
+      "fa": [
+        2,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "Tab\n\n\nF1\n\n\n\n\n\nQ",
+    "Esc\n\n\nF2\n\n\n\n\n\nW",
+    "-_\n\n\nF3\n\n\n\n\n\nE",
+    "=+\n\n\nF4\n\n\n\n\n\nR",
+    "\n\n\nF5\n\n\n\n\n\nT",
+    "\n\n\nF6\n\n\n\n\n\nY",
+    {
+      "x": 1
+    },
+    "7&\n\n\nF7\n\n\n\n\n\nY",
+    "8*\n\n\nF8\n\n\n\n\n\nU",
+    "9(\n\n\nF9\n\n\n\n\n\nI",
+    "0)\n\n\nF10\n\n\n\n\n\nO",
+    "△\n\n\nF11\n\n\n\n\n\nP",
+    "◇\n\n\nF12\n\n\n\n\n\nBspc"
+  ],
+  [
+    {
+      "x": 0.5
+    },
+    "Caps\n\n\nIns\n\n\n\n\n\nA",
+    "`~\n\n\nPScr\n\n\n\n\n\nS",
+    "\\|\n\n\nScrL\n\n\n\n\n\nD",
+    "'\"\n\n\nBrk\n\n\n\n\n\nF",
+    {
+      "t": "#000000",
+      "a": 7,
+      "fa": [
+        4
+      ]
+    },
+    "G",
+    {
+      "x": 2,
+      "t": "#ff0000\n#ffffff\n\n#0000ff\n\n\n\n\n\n#000000",
+      "a": 4,
+      "fa": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "4$\n\n\n\n\n\n\n\n\nH",
+    {
+      "fa": [
+        2,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "5%\n\n\nHome\n\n\n\n\n\nJ",
+    "6^\n\n\nEnd\n\n\n\n\n\nK",
+    "◁\n\n\nPgUp\n\n\n\n\n\nL",
+    "▷\n\n\nPgDn\n\n\n\n\n\n;:"
+  ],
+  [
+    "◇\n\n\n◇\n\n\n\n\n\nLShift",
+    "/?\n\n\nRGUI\n\n\n\n\n\nZ",
+    "[{\n\n\n\n\n\n\n\n\nX",
+    "]}\n\n\n\n\n\n\n\n\nC",
+    "\n\n\nReset\n\n\n\n\n\nV",
+    "\n\n\nBoot\n\n\n\n\n\nB",
+    {
+      "x": 1
+    },
+    "0)\n\n\n\n\n\n\n\n\nB",
+    "1!\n\n\n\n\n\n\n\n\nN",
+    "2@\n\n\n\n\n\n\n\n\nM",
+    "3#\n\n\n\n\n\n\n\n\n,<",
+    "▽\n\n\n\n\n\n\n\n\n.>",
+    {
+      "t": "#ff0000\n#ffffff\n\n#0000ff\n#000000\n\n\n\n\n#000000"
+    },
+    "Rshift\n\n\nRCtrl\nRShift\n\n\n\n\n/?"
+  ],
+  [
+    {
+      "t": "#ff0000\n#ffffff\n\n#0000ff\n\n\n\n\n\n#000000",
+      "w": 1.25
+    },
+    "◇\n\n\n◇\n\n\n\n\n\nLCtrl",
+    {
+      "x": 1.5
+    },
+    "◇\n\n\n◇\n\n\n\n\n\nLAlt",
+    "◇\n\n\n◇\n\n\n\n\n\nSpace",
+    {
+      "w": 1.25
+    },
+    "◇\n\n\n◇\n\n\n\n\n\nSpace",
+    {
+      "x": 1,
+      "t": "#000000\n\n\n\n#ff0000",
+      "a": 7,
+      "fa": [
+        4
+      ],
+      "w": 1.25
+    },
+    "Enter\n\n\n\nSymbol",
+    "Enter\n\n\n\nSymbol",
+    {
+      "t": "#ff0000\n#ffffff\n\n#0000ff\n#000000\n\n\n\n\n#000000",
+      "a": 4,
+      "fa": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    ".>\n\n\n\nLGUI\n\n\n\n\nRAlt",
+    {
+      "x": 1.5,
+      "t": "#ff0000\n#ffffff\n\n#0000ff\n#0000ff\n\n\n\n\n#000000",
+      "w": 1.25
+    },
+    ",<\n\n\n\nFn\n\n\n\n\nDel"
+  ]
+]
