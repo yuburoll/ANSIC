@@ -1,6 +1,6 @@
 ![ansicImage](images/ansic16x9.jpg)
 
-# ANSIK
+# ANSIC
 
 row staggered 40~42 key split keyboard under 100x100mm PCB
 
