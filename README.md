@@ -52,6 +52,12 @@ There will be two layers - Symbol, Fn - which can be noticed by the color legend
 
 work in progress. sorry!
 
+## Note
+
+(prototype) tagged versions have merged thumb on SW20(middle thumb cluster, (3,4) and (7,4)).
+
+On released version, they have merged thumb on SW21(outside thumb cluster, (3,5) and (7,5)).
+
 ## Licenses
 
 all codes follow MIT license.

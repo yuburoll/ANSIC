@@ -5,7 +5,7 @@
   },
   [
     {
-      "t": "#ff0000\n#ffffff\n\n#0000ff\n\n\n\n\n\n#000000",
+      "t": "#ff0000\n\n\n#0000ff\n\n\n\n\n\n#000000",
       "fa": [
         2,
         0,
@@ -53,7 +53,7 @@
     "G",
     {
       "x": 2,
-      "t": "#ff0000\n#ffffff\n\n#0000ff\n\n\n\n\n\n#000000",
+      "t": "#ff0000\n\n\n\n\n\n\n\n\n#000000",
       "a": 4,
       "fa": [
         2,
@@ -70,6 +70,7 @@
     },
     "4$\n\n\n\n\n\n\n\n\nH",
     {
+      "t": "#ff0000\n\n\n#0000ff\n\n\n\n\n\n#000000",
       "fa": [
         2,
         0,
@@ -91,12 +92,19 @@
   [
     "◇\n\n\n◇\n\n\n\n\n\nLShift",
     "/?\n\n\nRGUI\n\n\n\n\n\nZ",
+    {
+      "t": "#ff0000\n\n\n\n\n\n\n\n\n#000000"
+    },
     "[{\n\n\n\n\n\n\n\n\nX",
     "]}\n\n\n\n\n\n\n\n\nC",
+    {
+      "t": "#ff0000\n\n\n#0000ff\n\n\n\n\n\n#000000"
+    },
     "\n\n\nReset\n\n\n\n\n\nV",
     "\n\n\nBoot\n\n\n\n\n\nB",
     {
-      "x": 1
+      "x": 1,
+      "t": "#ff0000\n\n\n\n\n\n\n\n\n#000000"
     },
     "0)\n\n\n\n\n\n\n\n\nB",
     "1!\n\n\n\n\n\n\n\n\nN",
@@ -104,13 +112,13 @@
     "3#\n\n\n\n\n\n\n\n\n,<",
     "▽\n\n\n\n\n\n\n\n\n.>",
     {
-      "t": "#ff0000\n#ffffff\n\n#0000ff\n#000000\n\n\n\n\n#000000"
+      "t": "#ff0000\n\n\n#0000ff\n#000000\n\n\n\n\n#000000"
     },
     "Rshift\n\n\nRCtrl\nRShift\n\n\n\n\n/?"
   ],
   [
     {
-      "t": "#ff0000\n#ffffff\n\n#0000ff\n\n\n\n\n\n#000000",
+      "t": "#ff0000\n\n\n#0000ff\n\n\n\n\n\n#000000",
       "w": 1.25
     },
     "◇\n\n\n◇\n\n\n\n\n\nLCtrl",
@@ -118,14 +126,14 @@
       "x": 1.5
     },
     "◇\n\n\n◇\n\n\n\n\n\nLAlt",
-    "◇\n\n\n◇\n\n\n\n\n\nSpace",
+    "◇\n\n\n◇\n\n\n\n\n\nApp",
     {
       "w": 1.25
     },
     "◇\n\n\n◇\n\n\n\n\n\nSpace",
     {
       "x": 1,
-      "t": "#000000\n\n\n\n#ff0000",
+      "t": "#000000",
       "a": 7,
       "fa": [
         4
@@ -133,10 +141,24 @@
       "w": 1.25
     },
     "Enter\n\n\n\nSymbol",
-    "Enter\n\n\n\nSymbol",
     {
-      "t": "#ff0000\n#ffffff\n\n#0000ff\n#000000\n\n\n\n\n#000000",
+      "t": "#ff0000\n\n\n\n\n\n\n\n\n#000000",
       "a": 4,
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    ",<\n\n\n\n\n\n\n\n\nRAlt",
+    {
       "fa": [
         2,
         0,
@@ -150,10 +172,10 @@
         4
       ]
     },
-    ".>\n\n\n\nLGUI\n\n\n\n\nRAlt",
+    ".>\n\n\n\n\n\n\n\n\nLGUI",
     {
       "x": 1.5,
-      "t": "#ff0000\n#ffffff\n\n#0000ff\n#0000ff\n\n\n\n\n#000000",
+      "t": "#ff0000\n\n\n\n#0000ff\n\n\n\n\n#000000",
       "w": 1.25
     },
     ",<\n\n\n\nFn\n\n\n\n\nDel"
