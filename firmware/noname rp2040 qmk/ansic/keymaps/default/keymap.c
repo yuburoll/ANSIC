@@ -14,7 +14,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                 KC_CAPS,        KC_GRV,         KC_BSLS,        KC_QUOT,        KC_NO,                          KC_4,            KC_5,           KC_6,           KC_LEFT,        KC_RGHT, 
         KC_TRNS,        KC_SLSH,        KC_LBRC,        KC_RBRC,        KC_NO,          KC_NO,          KC_0,           KC_1,           KC_2,           KC_3,           KC_DOWN,        KC_RSFT, 
         KC_TRNS,                                        KC_TRNS,        KC_TRNS,        KC_TRNS,        KC_TRNS,        KC_TRNS,        KC_DOT,                                         KC_COMM),
-    [3] = LAYOUT_ansik(
+    [2] = LAYOUT_ansik(
         KC_F1,          KC_F2,          KC_F3,          KC_F4,         KC_F5,           KC_F6,          KC_F7,          KC_F8,          KC_F9,          KC_F10,         KC_F11,         KC_F12,  
                 KC_INS,         KC_PSCR,        KC_SCRL,        KC_BRK,         KC_NO,                          KC_NO,           KC_HOME,        KC_END,         KC_PGUP,        KC_PGDN,  
         KC_TRNS,        KC_RGUI,        KC_NO,          KC_NO,          QK_RBT,         QK_BOOT,        RM_NEXT,        RM_VALU,        RM_SATU,        RM_HUEU,        RM_TOGG,        KC_RCTL, 
