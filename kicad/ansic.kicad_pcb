@@ -34623,7 +34623,7 @@
 		(layer "Edge.Cuts")
 		(uuid "a8ec3705-b8b4-410d-b2f3-fe65db49a300")
 	)
-	(gr_text "FACE DOWN shield component side"
+	(gr_text "FACE DOWN module component side"
 		(at 92.5 48 0)
 		(layer "F.SilkS")
 		(uuid "207a8b24-e2d3-4bcc-a307-83dbb2bcf290")
@@ -35099,7 +35099,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "FACE DOWN shield component side"
+	(gr_text "FACE DOWN module component side"
 		(at 92.5 48 -0)
 		(layer "B.SilkS")
 		(uuid "f277f6bf-1e5d-4177-9793-77845f50a4a2")
