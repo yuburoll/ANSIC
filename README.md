@@ -54,9 +54,9 @@ work in progress. sorry!
 
 ## Note
 
-(prototype) tagged versions have merged thumb on SW20(middle thumb cluster, (3,4) and (7,4)).
+On released version, they have merged thumb cluster based on SW21(outside thumb cluster, (3,5) and (7,5)).
 
-On released version, they have merged thumb on SW21(outside thumb cluster, (3,5) and (7,5)).
+(prototype) tagged versions are legacy file, which have merged thumb cluster based on SW20(middle thumb cluster, (3,4) and (7,4)).
 
 ## Licenses
 
