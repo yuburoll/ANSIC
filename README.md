@@ -12,7 +12,11 @@ The name "ansic" is sabbath in Korean.
 
 - 2x ansic PCB Boards (5 boards are 2$ on JLC w/o shipping cost)
 
-- 1x printed case sets, 6 parts total (Approx. 12$ if you buy printed one on JLC. Use braced ones for 3d print)
+- 1x printed case sets, 2 parts total (Approx. 6$ if you buy printed one on JLC. Use braced ones for 3d print)
+
+- 2x keyboard plates (Approx. 4~12$ which method you use: 3DP, FR4 fab, CNC, laser cut. etc...)
+
+- 2x back plates (Approx. 6~18$ which method you use: 3DP, FR4 fab, CNC, laser cut. etc..)
 
 - 42x diodes (Approx. 1$)
 
@@ -30,7 +34,7 @@ The name "ansic" is sabbath in Korean.
 
 - 40~42x MX Keyswitches & Keycaps (Maybe this cost varies too much. 10$ on average)
 
-Approx. 38-43$(w/o shipping cost) needed to build one.
+Approx. 42-55$(w/o shipping cost) needed to build one.
 
 for wireless build, you may additionally need:
 
@@ -46,7 +50,7 @@ for wireless build, you may additionally need:
 
 Holding the key triggers front legend.
 
-There will be two layers - Symbol, Fn - which can be noticed by the color legends. ◇ Means Transparent; which uses base keymap.
+There are two layers - Symbol, Fn - which can be noticed by the color legends. ◇ Means Transparent; which uses base keymap.
 
 ## Build Guides
 
@@ -54,9 +58,9 @@ work in progress. sorry!
 
 ## Note
 
-(prototype) tagged versions have merged thumb on SW20(middle thumb cluster, (3,4) and (7,4)).
+On released version, they have merged thumb cluster based on SW21(outside thumb cluster, (3,5) and (7,5)).
 
-On released version, they have merged thumb on SW21(outside thumb cluster, (3,5) and (7,5)).
+(prototype) tagged versions are legacy file, which have merged thumb cluster based on SW20(middle thumb cluster, (3,4) and (7,4)). only the gerbers before Jan. 30, 2026 have those old schema.
 
 ## Licenses
 
