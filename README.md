@@ -50,7 +50,7 @@ for wireless build, you may additionally need:
 
 Holding the key triggers front legend.
 
-There are two layers - Symbol, Fn - which can be noticed by the color legends. ◇ Means Transparent; which uses base keymap.
+There are three layers - Symbol, Fn, Mouse - which can be noticed by the color legends. ◇ Means Transparent; which uses base keymap.
 
 ## Build Guides
 
