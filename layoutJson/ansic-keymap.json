@@ -5,7 +5,7 @@
   },
   [
     {
-      "t": "#000000\n\n\n#007777\n\n\n\n#0000ff",
+      "t": "#000000\n\n#ff0000\n#007777\n\n\n\n#0000ff",
       "fa": [
         0,
         0,
@@ -25,11 +25,11 @@
     "Y\n\n\n◇\n\n\n\nF6",
     {
       "x": 1,
-      "t": "#000000\n\n\n\n\n\n\n#0000ff"
+      "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"
     },
     "Y\n\n7&\n\n\n\n\nF7",
     {
-      "t": "#000000\n\n\n#007777\n\n\n\n#0000ff"
+      "t": "#000000\n\n#ff0000\n#007777\n\n\n\n#0000ff"
     },
     "U\n\n8*\nWh△\n\n\n\nF8",
     "I\n\n9(\nBtn4\n\n\n\nF9",
@@ -46,7 +46,7 @@
     "D\n\n:;\n◇\n\n\n\nScrL",
     "F\n\n'\"\n◇\n\n\n\nBrk",
     {
-      "t": "#000000\n\n\n#007777"
+      "t": "#000000\n\n#ff0000\n#007777"
     },
     "G\n\n\n◇",
     {
@@ -54,19 +54,19 @@
     },
     "H\n\n4$\nWh◁",
     {
-      "t": "#000000\n\n\n#007777\n\n\n\n#0000ff"
+      "t": "#000000\n\n#ff0000\n#007777\n\n\n\n#0000ff"
     },
     "J\n\n5%\nWh▷\n\n\n\nPgUp",
     "K\n\n6^\nMo◁\n\n\n\nPgDn",
     "L\n\n◁\nMo▷\n\n\n\nHome",
     {
-      "t": "#000000\n\n\n\n#007777\n\n\n#0000ff"
+      "t": "#000000\n\n#ff0000\n\n#007777\n\n\n#0000ff"
     },
     ";:\n\n▷\n\nMouse\n\n\nEnd"
   ],
   [
     {
-      "t": "#000000\n\n\n#007777\n\n\n\n#0000ff"
+      "t": "#000000\n\n#ff0000\n#007777\n\n\n\n#0000ff"
     },
     "LShift\n\n◇\n◇\n\n\n\n◇",
     "Z\n\n/?\n◇\n\n\n\nBTSw",
@@ -76,27 +76,24 @@
     "B\n\n\n◇\n\n\n\nBT3",
     {
       "x": 1,
-      "t": "#000000\n\n\n\n\n\n\n#0000ff"
+      "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"
     },
     "B\n\n0)\n\n\n\n\nBoot",
     {
-      "t": "#000000\n\n\n#007777\n\n\n\n#0000ff"
+      "t": "#000000\n\n#ff0000\n#007777\n\n\n\n#0000ff"
     },
     "N\n\n1!\nWh▽\n\n\n\nReset",
     "M\n\n2@\nBtn3\n\n\n\nRGUI",
     ",<\n\n3#\nMo▽\n\n\n\nApp",
     {
-      "t": "#000000\n\n\n\n\n\n\n#0000ff"
+      "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"
     },
     ".>\n\n▽\n\n\n\n\nRAlt",
-    {
-      "t": "#000000\n\n\n\n#000000\n\n\n#0000ff"
-    },
     "/?\n\nRSft\n\nRShift\n\n\nRCtl"
   ],
   [
     {
-      "t": "#000000\n\n\n#007777\n\n\n\n#0000ff",
+      "t": "#000000\n\n#ff0000\n#007777\n\n\n\n#0000ff",
       "w": 1.25
     },
     "LCtrl\n\n◇\n◇\n\n\n\n◇",
@@ -111,18 +108,18 @@
     "Space\n\n◇\n◇\n\n\n\n◇",
     {
       "x": 1,
-      "t": "#000000\n\n\n#007777\n#ff0000",
+      "t": "#000000\n\n#ff0000\n#007777\n#ff0000",
       "w": 1.25
     },
     "Enter\n\n\nBtn1\nSymbol",
     {
-      "t": "#000000\n\n\n#007777"
+      "t": "#000000\n\n#ff0000\n#007777"
     },
     "RAlt\n\n,<\nBtn3",
     "LGUI\n\n.>\nBtn2",
     {
       "x": 1.5,
-      "t": "#000000\n\n\n\n#0000ff",
+      "t": "#000000\n\n#ff0000\n\n#0000ff",
       "w": 1.25
     },
     "Del\n\n,<\n\nFn"
