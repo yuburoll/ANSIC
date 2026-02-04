@@ -1,0 +1,269 @@
+(footprint "Backplate-WaterDrain"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "db8f9423-7d6b-429d-a1e6-ddd5ece46b2f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Backplate-WaterDrain"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6ae3e74-90d3-4732-8345-dd0e7af5d281")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4c12e84-2522-454c-9320-2c20db33618f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7d53e273-16c3-466d-8545-1b8d2be09d61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4 -2)
+		(end 4 -2)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "F.Mask")
+		(uuid "6bde198e-c181-4fec-95c1-9b18e954291e")
+	)
+	(fp_line
+		(start 4 2)
+		(end -4 2)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "F.Mask")
+		(uuid "02e6098f-33a0-4a7e-b4ee-ce0edfb1d369")
+	)
+	(fp_arc
+		(start -4 2)
+		(mid -6 0)
+		(end -4 -2)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "F.Mask")
+		(uuid "b8c51e24-e650-4fb9-b022-0e222d9f5d98")
+	)
+	(fp_arc
+		(start 4 -2)
+		(mid 6 0)
+		(end 4 2)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "F.Mask")
+		(uuid "0f3059b3-91ac-4bc2-9c44-927627dad328")
+	)
+	(fp_line
+		(start -4 2)
+		(end 4 2)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "B.Mask")
+		(uuid "9d8c6f8f-63d1-4adf-8bbf-9e230961043b")
+	)
+	(fp_line
+		(start 4 -2)
+		(end -4 -2)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "B.Mask")
+		(uuid "6711ea5b-ccc5-4607-be46-a6be1ec1a213")
+	)
+	(fp_arc
+		(start -4 2)
+		(mid -6 0)
+		(end -4 -2)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "B.Mask")
+		(uuid "e42192f2-5cf6-4413-a0a0-7ec660bb3691")
+	)
+	(fp_arc
+		(start 4 -2)
+		(mid 6 0)
+		(end 4 2)
+		(stroke
+			(width 1)
+			(type default)
+		)
+		(layer "B.Mask")
+		(uuid "f79bd056-fad8-4d37-a970-245703cb7d51")
+	)
+	(fp_line
+		(start -4 -3)
+		(end 4 -3)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "9ee22c77-0ce7-4ccb-9e7c-65dae04be1bb")
+	)
+	(fp_line
+		(start 4 3)
+		(end -4 3)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "380b60a6-c3ae-4841-8e8b-446e52e6097f")
+	)
+	(fp_arc
+		(start -4 3)
+		(mid -7 0)
+		(end -4 -3)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "e4f01684-943f-4920-b366-187d52b9126f")
+	)
+	(fp_arc
+		(start 4 -3)
+		(mid 7 0)
+		(end 4 3)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "1fd5584f-654b-4e9e-a62f-414ab258ccd9")
+	)
+	(fp_line
+		(start -4 -2)
+		(end 4 -2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0d713efd-5f48-4235-af88-9e52dc588cc2")
+	)
+	(fp_line
+		(start 4 2)
+		(end -4 2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ed320364-c640-480a-9bb2-a22a422f76da")
+	)
+	(fp_arc
+		(start -4 2)
+		(mid -6 0)
+		(end -4 -2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "27fb0e70-e7c1-4ed4-be3d-120ad23f79ba")
+	)
+	(fp_arc
+		(start 4 -2)
+		(mid 6 0)
+		(end 4 2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3211e243-ba9b-45fa-a2eb-35cf8394f489")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "B.Cu")
+		(uuid "419e086d-8b5a-4183-9ab2-40e80916daa3")
+		(hatch full 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(arc
+					(start -4 -3)
+					(mid -7 0)
+					(end -4 3)
+				)
+				(arc
+					(start 4 3)
+					(mid 7 0)
+					(end 4 -3)
+				)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

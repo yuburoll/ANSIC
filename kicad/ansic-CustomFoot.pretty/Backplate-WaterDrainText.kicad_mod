@@ -1,0 +1,163 @@
+(footprint "Backplate-WaterDrainText"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7c5e2f52-4ff9-4392-9029-481796b9b644")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Backplate-WaterDrainText"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13800f6a-36f2-427a-ab49-dc68bad474c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ecd24483-91da-45df-93d4-9741216bd872")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92b708c1-5681-4336-ad45-1b8b8ee3340e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_arc
+		(start 5.035716 0)
+		(mid 4.535716 0.5)
+		(end 4.035716 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "570dc333-f377-4b7a-b31a-a15f03e8995e")
+	)
+	(fp_curve
+		(pts
+			(xy 4.035716 0) (xy 4.035716 -0.5) (xy 4.535716 -1) (xy 4.535716 -1)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d2131b3e-656b-4456-9a26-6dd45d1eebf9")
+	)
+	(fp_curve
+		(pts
+			(xy 5.035716 0) (xy 5.035716 -0.5) (xy 4.535716 -1) (xy 4.535716 -1)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c52b7997-42a7-44bc-830e-53bb09c505e1")
+	)
+	(fp_arc
+		(start -4 0)
+		(mid -4.5 0.5)
+		(end -5 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "2e3460da-ce48-4070-aca1-b24d71a94f32")
+	)
+	(fp_curve
+		(pts
+			(xy -5 0) (xy -5 -0.5) (xy -4.5 -1) (xy -4.5 -1)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "cd5603e8-58b2-4f85-95a0-566361919a85")
+	)
+	(fp_curve
+		(pts
+			(xy -4 0) (xy -4 -0.5) (xy -4.5 -1) (xy -4.5 -1)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "f954b1ec-127a-4c31-8a36-7a81b754d96c")
+	)
+	(fp_text user "water drain"
+		(at -0.964284 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ddba31ea-e6b2-41df-a811-968ae852f485")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(fp_text user "water drain"
+		(at 1 0 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "0b7426c1-98d0-4305-b0bb-3c0eb5d01418")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify mirror)
+		)
+	)
+	(group ""
+		(uuid "94211c72-584b-4bdb-b3c9-97e4ac33588c")
+		(members "570dc333-f377-4b7a-b31a-a15f03e8995e" "c52b7997-42a7-44bc-830e-53bb09c505e1"
+			"d2131b3e-656b-4456-9a26-6dd45d1eebf9"
+		)
+	)
+	(group ""
+		(uuid "41259f88-ebcc-41d6-beda-567cca2f8eed")
+		(members "2e3460da-ce48-4070-aca1-b24d71a94f32" "cd5603e8-58b2-4f85-95a0-566361919a85"
+			"f954b1ec-127a-4c31-8a36-7a81b754d96c"
+		)
+	)
+	(embedded_fonts no)
+)
