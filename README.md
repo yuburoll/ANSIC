@@ -34,7 +34,7 @@ The name "ansic" is repose in Korean.
 
 - 40~42x MX Keyswitches & Keycaps (Maybe this cost varies too much. 10$ on average)
 
-Approx. 43-56$(w/o shipping cost) needed to build one.
+Approx. 44-68$(w/o shipping cost) needed to build one.
 
 for wireless build, you may additionally need:
 
