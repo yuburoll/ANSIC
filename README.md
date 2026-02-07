@@ -2,7 +2,7 @@
 
 # ANSIC
 
-row staggered 40~42 key split keyboard under 100x100mm PCB
+uniform row staggered 40~42 key split keyboard under 100x100mm PCB
 
 The name "ansic" is repose in Korean.
 
@@ -40,7 +40,7 @@ for wireless build, you may additionally need:
 
 - 2x "Wireless" promicro (eg. nrf52840)
 
-- 2x 12c02 slide switch
+- 2x 12c02 slide switch (very fragile, so handle with caution. there's supported data for 3d print.)
 
 - 2x printed keyswitch part
 
