@@ -1,0 +1,100 @@
+[keyboard]
+name = "ANSIC"
+vendor_id = 0xF00D
+product_id = 0x2357
+manufacturer = "yuburoll"
+serial_number = "vial:f64c2b3c"
+chip = "nrf52840"
+usb_enable = true
+
+[features]
+nfc-pins-as-gpio = ["P0_09", "P0_10"]
+
+[rmk]
+ble_profiles_num = 3
+
+[ble]
+enabled = true
+
+[split]
+connection = "ble"
+
+[split.central] # left
+rows = 4
+cols = 6
+row_offset = 0
+col_offset = 0
+[split.central.matrix]
+matrix_type = "normal"
+row_pins = ["P1_13", "P1_11", "P0_10", "P0_09"]
+col_pins = ["P0_22", "P0_24", "P1_00", "P0_11", "P1_04", "P1_06"]
+row2col = false
+
+[[split.peripheral]] # right
+rows = 4
+cols = 6
+row_offset = 0
+col_offset = 6
+[split.peripheral.matrix]
+matrix_type = "normal"
+row_pins = ["P1_13", "P1_11", "P0_10", "P0_09"]
+col_pins = ["P1_06", "P1_04", "P0_11", "P1_00", "P0_24", "P0_22"]
+row2col = false
+
+[behavior.morse]
+permissive_hold = true
+hold_timeout = "200ms"
+[behavior.morse.profiles]
+SCLNSFT = {hold_on_other_key_press = true}
+NORM = {normal_mode = true}
+
+[layout]
+rows = 4
+cols = 12
+layers = 8
+matrix_map = """
+    (0, 0, L)       (0, 1, L)       (0, 2, L)       (0, 3, L)       (0, 4, L)       (0, 5, L)       (0, 6, R)       (0, 7, R)       (0, 8, R)       (0, 9, R)       (0,10, R)       (0,11, R)
+            (1, 0, L)       (1, 1, L)       (1, 2, L)       (1, 3, L)       (1, 4, L)                       (1, 7, R)       (1, 8, R)       (1, 9, R)       (1,10, R)       (1,11, R)
+    (2, 0, L)       (2, 1, L)       (2, 2, L)       (2, 3, L)       (2, 4, L)       (2, 5, L)       (2, 6, R)       (2, 7, R)       (2, 8, R)       (2, 9, R)       (2,10, R)       (2,11, R)
+    (3, 0, L)                                       (3, 3, L)       (3, 4, L)       (3, 5, L)       (3, 6, R)       (3, 7, R)       (3, 8, R)                                       (3,11, R)
+"""
+
+[[layer]] # Layer 0
+name = "base"
+keys = """
+    Q               W               E               R               T               Y               Y               U               I               O               P               bspc
+            A               S               D               F               G                               H               J               K               L               LT(3,scln,NORM)
+    lsft            Z               X               C               V               B               B               N               M               comm            dot             MT(slsh,rshift,SCLNSFT)
+    lctl                                            lalt            menu            spc             LT(1,ent)       ralt            lgui                                            LT(2,del)
+"""
+
+[[layer]] # Layer 1
+name = "symbol"
+keys = """
+    tab             esc             grv             mins            eql             no              7               8               9               0               up              _
+            caps            bsls            scln            quot            no                              4               5               6               left            rght
+    _               slsh            lbrc            rbrc            no              no              0               1               2               3               down            rsft
+    _                                               _               _               _               _               comm            dot                                             comm
+"""
+
+[[layer]] # Layer 2
+name = "fn"
+keys = """
+    F1              F2              F3              F4              F5              F6              F7              F8              F9              F10             F11             F12
+            ins             pscr            scrl            brk             no                              no              pgup            pgdn            home            end
+    _               User6           User0           User1           User2           User5           no              no              no              menu            ralt            rctl
+    _                                               _               _               _               no              no              no                                              _
+"""
+
+[[layer]] # Layer 3
+name = "mouse"
+keys = """
+    _               _               _               _               _               _               no              ms_whlu         ms_btn4         ms_up           ms_btn5         no
+            _               _               _               _               _                               ms_whll         ms_whlr         ms_left         ms_right        _
+    _               _               _               _               _               _               no              ms_whld         ms_btn3         ms_down         no              no
+    _                                               _               _               _               ms_btn1         ms_btn3         ms_btn2                                         no
+"""
+
+[host]
+vial_enabled = true
+unlock_keys = [[0, 0], [0, 11]]
