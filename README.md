@@ -32,9 +32,9 @@ The name "ansic" is repose in Korean.
 
 - 0~2x Plate Mounted 2u Keyboard Stabilizers (Approx. 1$ when cheap)
 
-- 40~42x MX Keyswitches & Keycaps (Maybe this cost varies too much. 10$ on average)
+- 40~42x MX Keyswitches & Keycaps (Maybe this cost varies too much. 15$ on average)
 
-Approx. 44-68$(w/o shipping cost) needed to build one.
+Approx. 49-73$(w/o shipping cost) needed to build one.
 
 for wireless build, you may additionally need:
 
