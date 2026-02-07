@@ -28,13 +28,13 @@ The name "ansic" is repose in Korean.
 
 - 1x 1/8(3.5mm) TRRS cable (Approx. 2$, may TRS cable can take the place.)
 
-- 43x MX Hotswap Sockets (Approx. 4$) (or, use soldering version)
+- 44x MX Hotswap Sockets (Approx. 5$) (or, use soldering version)
 
 - 0~2x Plate Mounted 2u Keyboard Stabilizers (Approx. 1$ when cheap)
 
 - 40~42x MX Keyswitches & Keycaps (Maybe this cost varies too much. 10$ on average)
 
-Approx. 42-55$(w/o shipping cost) needed to build one.
+Approx. 43-56$(w/o shipping cost) needed to build one.
 
 for wireless build, you may additionally need:
 
