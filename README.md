@@ -4,7 +4,7 @@
 
 row staggered 40~42 key split keyboard under 100x100mm PCB
 
-The name "ansic" is sabbath in Korean.
+The name "ansic" is repose in Korean.
 
 ## Preparation
 
