@@ -2,9 +2,9 @@
 
 # ANSIC
 
-row staggered 40~42 key split keyboard under 100x100mm PCB
+uniform row staggered 40~42 key split keyboard under 100x100mm PCB
 
-The name "ansic" is sabbath in Korean.
+The name "ansic" is repose in Korean.
 
 ## Preparation
 
@@ -28,19 +28,21 @@ The name "ansic" is sabbath in Korean.
 
 - 1x 1/8(3.5mm) TRRS cable (Approx. 2$, may TRS cable can take the place.)
 
-- 43x MX Hotswap Sockets (Approx. 4$) (or, use soldering version)
+- 44x MX Hotswap Sockets (Approx. 5$) (or, use soldering version)
 
 - 0~2x Plate Mounted 2u Keyboard Stabilizers (Approx. 1$ when cheap)
 
-- 40~42x MX Keyswitches & Keycaps (Maybe this cost varies too much. 10$ on average)
+- 40~42x MX Keyswitches & Keycaps (Maybe this cost varies too much. 15$ on average)
 
-Approx. 42-55$(w/o shipping cost) needed to build one.
+Approx. 49-73$(w/o shipping cost) needed to build one.
 
 for wireless build, you may additionally need:
 
 - 2x "Wireless" promicro (eg. nrf52840)
 
-- 2x 12c02 slide switch
+- 2x 12c02 slide switch (very fragile, so handle with caution. there's supported data for 3d print.)
+
+- 2x printed keyswitch part
 
 - 2x xx2030 Li-po battery (eg. 902030) and socket(in 1.25)
 
@@ -54,13 +56,29 @@ There are three layers - Symbol, Fn, Mouse - which can be noticed by the color l
 
 ## Build Guides
 
-work in progress. sorry!
+work in progress. sorry! I uploaded images for buildguide at [images](images) folder.
+
+also you may refer to the pictures below:
+
+#### Wired
+
+**You may flash the firmware first before the build.** It's hard to make dfu mode after the build.
+
+![WiredFront](images/ansicBuildWiredFront.jpg)
+
+![WiredBack](images/ansicBuildWiredBack.jpg)
+
+#### Wireless
+
+![WirelessFront](images/ansicBuildWirelessFront.jpg)
+
+![WirelessBack](images/ansicBuildWirelessBack.jpg)
 
 ## Note
 
-On released version, they have merged thumb cluster based on SW21(outside thumb cluster, (3,5) and (7,5)).
+On released version, they have merged thumb cluster based on SW21(outside thumb cluster).
 
-(prototype) tagged versions are legacy file, which have merged thumb cluster based on SW20(middle thumb cluster, (3,4) and (7,4)). only the gerbers before Jan. 30, 2026 have those old schema.
+(prototype) tagged versions are legacy file, which have merged thumb cluster based on SW20(middle thumb cluster). only the gerbers before Jan. 30, 2026 have those old schema.
 
 ## Licenses
 
