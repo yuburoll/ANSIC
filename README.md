@@ -42,6 +42,8 @@ for wireless build, you may additionally need:
 
 - 2x 12c02 slide switch
 
+- 2x printed keyswitch part
+
 - 2x xx2030 Li-po battery (eg. 902030) and socket(in 1.25)
 
 ## Default Keymap
@@ -54,13 +56,27 @@ There are three layers - Symbol, Fn, Mouse - which can be noticed by the color l
 
 ## Build Guides
 
-work in progress. sorry!
+work in progress. sorry! I uploaded images for buildguide at [images](images) folder.
+
+also you may refer to the pictures below:
+
+#### Wired
+
+![WiredFront](images/ansicBuildWiredFront.jpg)
+
+![WiredBack](images/ansicBuildWiredBack.jpg)
+
+#### Wireless
+
+![WirelessFront](images/ansicBuildWirelessFront.jpg)
+
+![WirelessBack](images/ansicBuildWirelessBack.jpg)
 
 ## Note
 
-On released version, they have merged thumb cluster based on SW21(outside thumb cluster, (3,5) and (7,5)).
+On released version, they have merged thumb cluster based on SW21(outside thumb cluster).
 
-(prototype) tagged versions are legacy file, which have merged thumb cluster based on SW20(middle thumb cluster, (3,4) and (7,4)). only the gerbers before Jan. 30, 2026 have those old schema.
+(prototype) tagged versions are legacy file, which have merged thumb cluster based on SW20(middle thumb cluster). only the gerbers before Jan. 30, 2026 have those old schema.
 
 ## Licenses
 
