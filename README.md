@@ -62,6 +62,8 @@ also you may refer to the pictures below:
 
 #### Wired
 
+**You may flash the firmware first before the build.** It's hard to make dfu mode after the build.
+
 ![WiredFront](images/ansicBuildWiredFront.jpg)
 
 ![WiredBack](images/ansicBuildWiredBack.jpg)
