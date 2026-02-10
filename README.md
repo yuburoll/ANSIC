@@ -1,5 +1,7 @@
 ![ansicImage](images/ansic16x9.jpg)
 
+[한국어 설명은 여기에서 보실 수 있습니다](README_ko.md)
+
 # ANSIC
 
 uniform row staggered 40~42 key split keyboard under 100x100mm PCB
@@ -40,9 +42,9 @@ for wireless build, you may additionally need:
 
 - 2x "Wireless" promicro (eg. nrf52840)
 
-- 2x 12c02 slide switch (very fragile, so handle with caution. there's supported data for 3d print.)
+- 2x 12c02 slide switch (very fragile, so handle with caution)
 
-- 2x printed keyswitch part
+- 2x printed power switch part
 
 - 2x xx2030 Li-po battery (eg. 902030) and socket(in 1.25)
 
