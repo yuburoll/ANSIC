@@ -1,0 +1,115 @@
+[
+  {
+    "name": "ANSIC keymap compress",
+    "author": "yuburoll"
+  },
+  [
+    {
+      "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "Q\n\nTab\n\n\n\n\nF1",
+    "W\n\nEsc\n\n\n\n\nF2",
+    "E\n\n`~\n\n\n\n\nF3",
+    "R\n\n-_\n\n\n\n\nF4",
+    "T\n\n=+\n\n\n\n\nF5",
+    {
+      "t": "#000000\n\n\n\n\n\n\n#0000ff"
+    },
+    "Y\n\n\n\n\n\n\nF6",
+    {
+      "x": 1,
+      "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"
+    },
+    "Y\n\n7&\n\n\n\n\nPScr",
+    "U\n\n8*\n\n\n\n\nScrL",
+    "I\n\n9(\n\n\n\n\nBrk",
+    "O\n\n0)\n\n\n\n\nWh△",
+    "P\n\n△\n\n\n\n\nMo△",
+    "Bspc\n\n◇\n\n\n\n\nRalt"
+  ],
+  [
+    {
+      "x": 0.5
+    },
+    "A\n\nCaps\n\n\n\n\nF7",
+    "S\n\n\\|\n\n\n\n\nF8",
+    "D\n\n:;\n\n\n\n\nF9",
+    "F\n\n'\"\n\n\n\n\nF10",
+    {
+      "t": "#000000\n\n\n\n\n\n\n#0000ff"
+    },
+    "G\n\n\n\n\n\n\nF11",
+    {
+      "x": 2,
+      "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"
+    },
+    "H\n\n4$\n\n\n\n\nIns",
+    "J\n\n5%\n\n\n\n\nHome",
+    "K\n\n6^\n\n\n\n\nPgUp",
+    "L\n\n◁\n\n\n\n\nMo◁",
+    ";:\n\n▷\n\n\n\n\nMo▷"
+  ],
+  [
+    "LShift\n\n◇\n\n\n\n\n◇",
+    "Z\n\n/?\n\n\n\n\nF12",
+    "X\n\n[{\n\n\n\n\nBT0",
+    "C\n\n]}\n\n\n\n\nBT1",
+    {
+      "t": "#000000\n\n\n\n\n\n\n#0000ff"
+    },
+    "V\n\n\n\n\n\n\nBT2",
+    "B\n\n\n\n\n\n\nBTRst",
+    {
+      "x": 1,
+      "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"
+    },
+    "B\n\n0)\n\n\n\n\nBoot",
+    "N\n\n1!\n\n\n\n\nEnd",
+    "M\n\n2@\n\n\n\n\nPgDn",
+    ",<\n\n3#\n\n\n\n\nWh▽",
+    ".>\n\n▽\n\n\n\n\nMo▽",
+    "/?\n\nRSft\n\nRShift\n\n\nRCtl"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "LCtrl\n\n◇\n\n\n\n\n◇",
+    {
+      "x": 1.5
+    },
+    "LAlt\n\n◇\n\n\n\n\n◇",
+    "App\n\n◇\n\n\n\n\n◇",
+    {
+      "w": 1.25
+    },
+    "Space\n\n◇\n\n\n\n\nBTSw",
+    {
+      "x": 1,
+      "t": "#000000\n\n\n\n#ff0000\n\n\n#0000ff",
+      "w": 1.25
+    },
+    "Enter\n\n\n\nSymbol\n\n\nBtn1",
+    {
+      "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"
+    },
+    "RAlt\n\n,<\n\n\n\n\nBtn3",
+    "LGUI\n\n.>\n\n\n\n\nBtn2",
+    {
+      "x": 1.5,
+      "t": "#000000\n\n#ff0000\n\n#0000ff",
+      "w": 1.25
+    },
+    "Del\n\n,<\n\nFn"
+  ]
+]

@@ -63,7 +63,7 @@ matrix_map = """
 name = "base"
 keys = """
     Q               W               E               R               T               Y               Y               U               I               O               P               bspc
-            A               S               D               F               G                               H               J               K               L               LT(3,scln,NORM)
+            A               S               D               F               G                               H               J               K               L               scln
     lsft            Z               X               C               V               B               B               N               M               comm            dot             MT(slsh,rshift,SCLNSFT)
     lctl                                            lalt            menu            spc             LT(1,ent)       ralt            lgui                                            LT(2,del)
 """
@@ -80,19 +80,10 @@ keys = """
 [[layer]] # Layer 2
 name = "fn"
 keys = """
-    F1              F2              F3              F4              F5              F6              F7              F8              F9              F10             F11             F12
-            ins             pscr            scrl            brk             no                              no              pgup            pgdn            home            end
-    _               User6           User0           User1           User2           User5           no              no              no              menu            ralt            rctl
-    _                                               _               _               _               no              no              no                                              _
-"""
-
-[[layer]] # Layer 3
-name = "mouse"
-keys = """
-    _               _               _               _               _               _               no              ms_whlu         ms_btn4         ms_up           ms_btn5         no
-            _               _               _               _               _                               ms_whll         ms_whlr         ms_left         ms_right        _
-    _               _               _               _               _               _               no              ms_whld         ms_btn3         ms_down         no              no
-    _                                               _               _               _               ms_btn1         ms_btn3         ms_btn2                                         no
+    F1              F2              F3              F4              F5              F6              pscr            scrl            brk             ms_whlu         ms_up           ralt
+            F7              F8              F9              F10             F11                             ins             home            pgup            ms_left         ms_right
+    _               F12             User0           User1           User2           User5           no              end             pgdn            ms_whld         ms_down         rctl
+    _                                               _               _               User6           ms_btn1         ms_btn3         ms_btn2                                         _
 """
 
 [host]
