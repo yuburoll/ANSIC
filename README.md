@@ -26,7 +26,7 @@ The name "ansic" is repose in Korean.
 
 - 2x PJ320A 1/8(3.5mm) TRRS connector (Approx. 1$)
 
-- 2x 4x4x1.5mm tact switches (Approx. 1$)
+- 2x 4x4x1.5mm surface mount tact switches (Approx. 1$)
 
 - 1x 1/8(3.5mm) TRRS cable (Approx. 2$, may TRS cable can take the place.)
 
