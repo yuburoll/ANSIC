@@ -80,6 +80,8 @@ On released version, they have merged thumb cluster based on SW21(outside thumb 
 
 (prototype) tagged versions are legacy file, which have merged thumb cluster based on SW20(middle thumb cluster). only the gerbers before Jan. 30, 2026 have those old schema.
 
+Both Wired and Wireless version works well: proved by my two builds.
+
 ## Licenses
 
 all codes follow MIT license.
