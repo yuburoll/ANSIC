@@ -3,6 +3,7 @@ name = "ANSIC"
 vendor_id = 0xF00D
 product_id = 0x2357
 manufacturer = "yuburoll"
+product_name = "ANSIC"
 serial_number = "vial:f64c2b3c"
 chip = "nrf52840"
 usb_enable = true
@@ -12,6 +13,7 @@ nfc-pins-as-gpio = ["P0_09", "P0_10"]
 
 [rmk]
 ble_profiles_num = 3
+battery_adc_pin = "vddh"
 
 [ble]
 enabled = true

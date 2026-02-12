@@ -3,6 +3,7 @@ name = "ANSIC"
 vendor_id = 0xF00D
 product_id = 0x2357
 manufacturer = "yuburoll"
+product_name = "ANSIC"
 serial_number = "vial:f64c2b3c"
 chip = "nrf52840"
 usb_enable = true
@@ -16,6 +17,7 @@ split_peripherals_num = 2
 
 [ble]
 enabled = true
+battery_adc_pin = "vddh"
 
 [split]
 connection = "ble"
