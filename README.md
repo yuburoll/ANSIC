@@ -14,7 +14,7 @@ The name "ansic" is repose in Korean.
 
 - 2x ansic PCB Boards (5 boards are 2$ on JLC w/o shipping cost)
 
-- 1x printed case sets, 2 parts total (Approx. 6$ if you buy printed one on JLC. Use braced ones for 3d print)
+- 1x printed case sets, 2 parts total (Approx. 6$ if you buy printed one on JLC. Use braced ones or 2mm ones for 3d print)
 
 - 2x keyboard plates (Approx. 4~12$ which method you use: 3DP, FR4 fab, CNC, laser cut. etc...)
 
