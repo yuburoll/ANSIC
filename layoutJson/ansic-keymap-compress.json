@@ -17,15 +17,15 @@
         2
       ]
     },
-    "Q\n\nTab\n\n\n\n\nF1",
-    "W\n\nEsc\n\n\n\n\nF2",
-    "E\n\n`~\n\n\n\n\nF3",
-    "R\n\n-_\n\n\n\n\nF4",
-    "T\n\n=+\n\n\n\n\nF5",
+    "Q\n\nTab\n\n\n\n\nF7",
+    "W\n\nEsc\n\n\n\n\nF8",
+    "E\n\n`~\n\n\n\n\nF9",
+    "R\n\n-_\n\n\n\n\nF10",
+    "T\n\n=+\n\n\n\n\nBTRst",
     {
       "t": "#000000\n\n\n\n\n\n\n#0000ff"
     },
-    "Y\n\n\n\n\n\n\nF6",
+    "Y\n\n\n\n\n\n\nBT0",
     {
       "x": 1,
       "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"
@@ -41,14 +41,14 @@
     {
       "x": 0.5
     },
-    "A\n\nCaps\n\n\n\n\nF7",
-    "S\n\n\\|\n\n\n\n\nF8",
-    "D\n\n:;\n\n\n\n\nF9",
-    "F\n\n'\"\n\n\n\n\nF10",
+    "A\n\nCaps\n\n\n\n\nF4",
+    "S\n\n\\|\n\n\n\n\nF5",
+    "D\n\n:;\n\n\n\n\nF6",
+    "F\n\n'\"\n\n\n\n\nF11",
     {
       "t": "#000000\n\n\n\n\n\n\n#0000ff"
     },
-    "G\n\n\n\n\n\n\nF11",
+    "G\n\n\n\n\n\n\nBT1",
     {
       "x": 2,
       "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"
@@ -61,14 +61,14 @@
   ],
   [
     "LShift\n\n◇\n\n\n\n\n◇",
-    "Z\n\n/?\n\n\n\n\nF12",
-    "X\n\n[{\n\n\n\n\nBT0",
-    "C\n\n]}\n\n\n\n\nBT1",
+    "Z\n\n/?\n\n\n\n\nF1",
+    "X\n\n[{\n\n\n\n\nF2",
+    "C\n\n]}\n\n\n\n\nF3",
     {
       "t": "#000000\n\n\n\n\n\n\n#0000ff"
     },
-    "V\n\n\n\n\n\n\nBT2",
-    "B\n\n\n\n\n\n\nBTRst",
+    "V\n\n\n\n\n\n\nF12",
+    "B\n\n\n\n\n\n\nBT2",
     {
       "x": 1,
       "t": "#000000\n\n#ff0000\n\n\n\n\n#0000ff"

@@ -56,10 +56,10 @@ col_pins = ["P1_06", "P1_04", "P0_11", "P1_00", "P0_24", "P0_22"]
 row2col = false
 
 [behavior.morse]
-permissive_hold = true
+hold_on_other_press = true
 hold_timeout = "200ms"
 [behavior.morse.profiles]
-SCLNSFT = {hold_on_other_key_press = true}
+PERM = {permissive_hold = true} 
 NORM = {normal_mode = true}
 
 [layout]
@@ -78,8 +78,8 @@ name = "base"
 keys = """
     Q               W               E               R               T               Y               Y               U               I               O               P               bspc
             A               S               D               F               G                               H               J               K               L               scln
-    lsft            Z               X               C               V               B               B               N               M               comm            dot             MT(slsh,rshift,SCLNSFT)
-    lctl                                            lalt            menu            spc             LT(1,ent)       ralt            lgui                                            LT(2,del)
+    lsft            Z               X               C               V               B               B               N               M               comm            dot             MT(slsh,rshift)
+    lctl                                            lalt            menu            spc             LT(1,ent,PERM)       ralt            lgui                                            LT(2,del,PERM)
 """
 
 [[layer]] # Layer 1
@@ -94,9 +94,9 @@ keys = """
 [[layer]] # Layer 2
 name = "fn"
 keys = """
-    F1              F2              F3              F4              F5              F6              pscr            scrl            brk             ms_whlu         ms_up           ralt
-            F7              F8              F9              F10             F11                             ins             home            pgup            ms_left         ms_right
-    _               F12             User0           User1           User2           User5           no              end             pgdn            ms_whld         ms_down         rctl
+    F7              F8              F9              F10             User5           User0           pscr            scrl            brk             ms_whlu         ms_up           ralt
+            F4              F5              F6              F11             User1                           ins             home            pgup            ms_left         ms_right
+    _               F1              F2              F3              F12             User2           no              end             pgdn            ms_whld         ms_down         rctl
     _                                               _               _               User6           ms_btn1         ms_btn3         ms_btn2                                         _
 """
 
